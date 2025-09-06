@@ -1,2 +1,2 @@
-# olamundo
+# olá, mundo!
 curso de git
